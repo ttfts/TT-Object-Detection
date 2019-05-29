@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Wheel Brush</folder>
+	<filename>IMG_0718.jpg</filename>
+	<path>D:\0-Programmer\5-Raspberry\Picture Bursh\Label\Wheel Brush\IMG_0718.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Wheel Brush</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>202</ymin>
+			<xmax>272</xmax>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Wheel Brush</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>198</ymin>
+			<xmax>251</xmax>
+			<ymax>347</ymax>
+		</bndbox>
+	</object>
+</annotation>

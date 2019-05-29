@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Resize IMAGE FRIEND</folder>
+	<filename>IMG_0640.jpg</filename>
+	<path>C:\Users\administrator\Desktop\Resize IMAGE FRIEND\IMG_0640.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Twist Brush-A</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>148</ymin>
+			<xmax>461</xmax>
+			<ymax>187</ymax>
+		</bndbox>
+	</object>
+</annotation>
